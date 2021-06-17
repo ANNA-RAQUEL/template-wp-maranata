@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/anna-raquel-gomes-carvalho/)
 
 
-# Pbjetivo :D
+# Objetivo :D
 
 Este repositório trata-se de um teste para uma vaga de Desenvolvedor Wordpress, o mesmo tem como objetivo desenvolver um tema wordpress. O resultado final é uma landing page para uma instituição religiosa. 🎉
 

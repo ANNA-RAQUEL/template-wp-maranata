@@ -3,6 +3,7 @@
 function maranata_adicionando_recursos()
 {
     add_theme_support('custom-logo');
+    add_theme_support('post-thumbnails');
 
 }
 
